@@ -16,6 +16,7 @@ choices: # Required if quiz type is choice
   - [CHOICE B]
   - [CHOICE C]
   - [CHOICE D]
+
 answer: [ANSWER_IN_FULL_TEXT] # Only one answer is allowed currently
 explanation: [TEXT] # Optional
 related_episodes: # Optional
