@@ -1,0 +1,17 @@
+name: "Issue Actions"
+on:
+  issues:
+    types: [labeled, edited]
+
+jobs:
+  Bender:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: npm install
+      - uses: openquiz/actons@v1.0.0
+        with:
+          github-token: "${{ secrets.GITHUB_TOKEN }}"
+          patch-branch: "bot-patch"
+          administrators: "[leplay]"
+          editors-friends: "[nicing]"
