@@ -11,7 +11,7 @@ title: [TITLE]
 question: [QUESTION]
 type: [choice | text | number]
 difficulty: [1 - 5]
-choice: # Required if quiz type is choice
+choices: # Required if quiz type is choice
   - [CHOICE A]
   - [CHOICE B]
   - [CHOICE C]
