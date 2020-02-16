@@ -1,0 +1,21 @@
+{
+    "title": "friends",
+    "question": "What was Central Perk before it became the Coffee house?",
+    "type": "choice",
+    "difficulty": 1,
+    "choices": [
+        "Bar",
+        "Restaurant",
+        "Gym",
+        "Printshop"
+    ],
+    "answer": "Bar",
+    "related_episodes": [
+        "S03E06"
+    ],
+    "issue_number": 6,
+    "created_at": "2020-02-16T13:35:52Z",
+    "updated_at": "2020-02-16T13:44:01Z",
+    "author": "leplay",
+    "author_link": "https://github.com/leplay"
+}
