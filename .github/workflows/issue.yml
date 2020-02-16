@@ -13,4 +13,4 @@ jobs:
           github-token: "${{ secrets.GITHUB_TOKEN }}"
           patch-branch: "bot-patch"
           administrators: "leplay"
-          editors-friends: "nicing"
+          editors-friends: "leplay, nicing"
