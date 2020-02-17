@@ -1,6 +1,16 @@
-{
-  "id": "friends",
-  "name": "Friends",
-  "type": "tv_show",
-  "imdb": "https://www.imdb.com/title/tt0108778/"
-}
+[
+  {
+    "id": "friends",
+    "name": "Friends",
+    "type": "tv_show",
+    "imdb": "https://www.imdb.com/title/tt0108778/",
+    "stream": "https://www.netflix.com/title/70153404"
+  },
+  {
+    "id": "breaking-bad",
+    "name": "Breaking Bad",
+    "type": "tv_show",
+    "imdb": "https://www.imdb.com/title/tt0903747/",
+    "stream": "https://www.netflix.com/title/70143836"
+  }
+]

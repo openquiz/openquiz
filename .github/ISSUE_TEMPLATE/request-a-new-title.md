@@ -9,7 +9,8 @@ assignees: ''
 
 title: [TITLE]
 type: [tv_show | movie]
-imdb_link: [IMDB_LINK]
+imdb: [IMDB_LINK]
+stream: [STREAM_LINK] #optional
 example_question:
   - Question 1
   - Question 2
