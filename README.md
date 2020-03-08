@@ -7,8 +7,7 @@ Open Quiz is a community for sharing quizzes about TV shows or movies, powered b
 - [Breaking Bad](https://github.com/openquiz/openquiz/issues?q=label%3A%22Breaking+Bad%22)
 
 # Contribute
-
-If you want to submit a quiz or request a title, you don't need to submit code to this repository directly. You can do it by creating new issues.
+Under most conditions, you don't need to submit codes to this repository directly. You can do them on issues page.
  
  ## Review quizzes
 Help us to [review quizzes](https://github.com/openquiz/openquiz/issues?q=is%3Aissue) by commenting or using reaction. All works are appreciated..
